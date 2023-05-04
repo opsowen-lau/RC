@@ -1,2 +1,2 @@
 # RC
-git test
+測試
